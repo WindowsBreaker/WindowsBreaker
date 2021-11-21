@@ -12,7 +12,7 @@ Here are some informations about me:
 
 - ![Ds](https://img.shields.io/badge/-Discord-black?&logo=discord)
 
-[Lua. And Arisa (Click Me)]()<br>
+[Lua. And Arisa (Click Me)](https://discord.gg/Ua6bukDFhJ)<br>
 Windows Empire: Coming Soon
 
 
