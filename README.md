@@ -13,22 +13,4 @@ Here are some informations about me:
 <img src="https://github-readme-stats.vercel.app/api?username=WindowsBreaker&show_icons=true&theme=blueberry" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindowsBreaker&theme=blueberry&langs_count=8&layout=compact" />
 
-### Links
-
-- ![Ds](https://img.shields.io/badge/-Discord-black?&logo=discord)
-
-[Lua. And Arisa (Click Me)](https://discord.gg/Ua6bukDFhJ)<br>
-Windows Empire: Coming Soon
-
-
-**Note that those two server are Italian 🇮🇹**
-
-- ![Yt](https://img.shields.io/badge/-YouTube-black?&logo=youtube): [WindowsBreaker](https://youtube.com/channel/UC-oNpdnr0WaBBMlUJ5BXhJw)
-
-
-
-
-
-
-
 
